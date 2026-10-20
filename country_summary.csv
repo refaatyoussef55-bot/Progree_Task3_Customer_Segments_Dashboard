@@ -1,0 +1,42 @@
+Country,Revenue,Customers,Orders,Avg_Order_Value,Revenue_Share_%,Map_Ready
+United Kingdom,14389234.92,5350,33541,429.0,82.82,True
+Ireland,616570.54,5,567,1087.43,3.55,True
+Netherlands,554038.09,22,228,2429.99,3.19,True
+Germany,425019.71,107,789,538.68,2.45,True
+France,348768.96,95,614,568.03,2.01,True
+Australia,169283.46,15,95,1781.93,0.97,True
+Spain,108332.49,41,154,703.46,0.62,True
+Switzerland,100061.94,22,90,1111.8,0.58,True
+Sweden,91515.82,19,104,879.96,0.53,True
+Denmark,68580.69,12,43,1594.9,0.39,True
+Belgium,65387.82,29,149,438.84,0.38,True
+Norway,56322.5,13,45,1251.61,0.32,True
+Portugal,55554.78,24,93,597.36,0.32,True
+Channel Islands,44623.33,13,55,811.33,0.26,False
+Japan,43023.91,10,33,1303.75,0.25,True
+Italy,32108.17,17,65,493.97,0.18,True
+Finland,29925.54,14,57,525.01,0.17,True
+Singapore,25317.06,1,11,2301.55,0.15,True
+Cyprus,24849.95,11,37,671.62,0.14,True
+Austria,23613.01,13,45,524.73,0.14,True
+Greece,19096.19,5,18,1060.9,0.11,True
+Poland,10654.29,6,28,380.51,0.06,True
+Israel,10415.24,4,7,1487.89,0.06,True
+United Arab Emirates,9202.69,4,11,836.61,0.05,True
+Unspecified,8607.35,6,16,537.96,0.05,False
+United States,8366.86,9,20,418.34,0.05,True
+Malta,8099.09,2,9,899.9,0.05,True
+Iceland,4921.53,1,8,615.19,0.03,True
+Lithuania,4892.68,1,6,815.45,0.03,True
+Canada,4883.04,5,8,610.38,0.03,True
+Thailand,3070.54,1,2,1535.27,0.02,True
+South Africa,1933.74,2,2,966.87,0.01,True
+Lebanon,1693.88,1,1,1693.88,0.01,True
+Brazil,1411.87,2,2,705.94,0.01,True
+Bahrain,1354.37,2,4,338.59,0.01,True
+European Community,1300.25,1,4,325.06,0.01,False
+South Korea,1118.51,2,2,559.26,0.01,True
+Czech Republic,826.74,1,2,413.37,0.0,True
+West Indies,536.41,1,1,536.41,0.0,True
+Saudi Arabia,145.92,1,1,145.92,0.0,True
+Nigeria,140.39,1,2,70.19,0.0,True
